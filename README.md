@@ -3,9 +3,9 @@
 
 # KSB-ROB
 
-????? (KSB) (ROB).
+????? (KSB) - Royal Observatory of Belgium (ROB).
 
-SPASE resource descriptions with the NASA naming authority.
+SPASE resource descriptions with the KSB-ROB naming authority.
 
 # How to Use This Repository
 
